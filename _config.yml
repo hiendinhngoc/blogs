@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: The title
 description: Description
+future: true
+timezone: Indochina Time
